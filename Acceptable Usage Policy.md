@@ -47,4 +47,5 @@ We abide by laws within the following jurisdictions:
 
 | Jurisdiction | Reason |
 |--------------|--------|
-| TBD | TBD |
+| Germany | Data storage |
+| European Union | 👍 |
